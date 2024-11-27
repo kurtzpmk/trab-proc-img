@@ -1,5 +1,5 @@
-train: C:\Users\Eduar\Desktop\trab-proc-img\Resized\Train
-val: C:\Users\Eduar\Desktop\trab-proc-img\Resized\Validation
+train: C:\Users\Paulo\Documents\trab-proc-img\Resized\Train
+val: C:\Users\Paulo\Documents\trab-proc-img\Resized\Validation
 
 nc: 1
 names: ["Tumor"]
